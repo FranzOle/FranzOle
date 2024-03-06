@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lionel Jevon</h1>
-<h3 align="center">A Passionate Student and Programmer from Sidoarjo. I'm Lionel Jevon, a passionate Student and Programmer from Sidoarjo. Welcome to my GitHub profile!</h3>
+<h3 align="center"> I'm Lionel Jevon, a passionate Student and Programmer from Sidoarjo. Welcome to my GitHub profile!</h3>
 
 - 🌱 I’m currently learning **C++, Java, PHP, and Javascript.**
 
