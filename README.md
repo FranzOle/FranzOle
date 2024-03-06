@@ -46,8 +46,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="![image](https://github.com/FranzOle/FranzOle/assets/115760743/4f39ecd4-0835-4180-8660-0f0258067bd1)
-" alt="laravel" width="40" height="40"/>
+    <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -88,3 +87,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
 </p>
+<br>
+
+  <blockquote>
+    <p>"God’s purpose is greater than our problems." - Rick Warren</p>
+  </blockquote>
+
+  <p>Thanks for visiting! ✨</p
