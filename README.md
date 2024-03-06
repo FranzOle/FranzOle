@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++, Java, PHP, and Javascript.**
 
-- ⚡ Fun fact [I really love Star Wars](I really love Star Wars)
+- ⚡ Fun fact **I really love Star Wars**
 
 - 🚀 I’m currently exploring **Desktop and Web Programming**
 
