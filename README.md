@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I really love Star Wars**
 
-- 🚀 I’m currently exploring **Desktop and Web Programming**
+- 🚀 I’m currently exploring **Mobile and Web Programming**
 
 - 📫 How to reach me **lioneljevon1212@gmail.com**
 
