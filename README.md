@@ -94,7 +94,7 @@
 <br>
 
   <blockquote>
-    <p>"God’s purpose is greater than our problems." - Rick Warren</p>
+    <p>"For nothing will be impossible for God" (Luke 1:37)</p>
   </blockquote>
 
   <p>Thanks for visiting! ✨</p
