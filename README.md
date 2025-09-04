@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lionel Jevon</h1>
-<h3 align="center"> I'm Lionel Jevon, a passionate Student and Programmer from Sidoarjo. Welcome to my GitHub profile!</h3>
+<h3 align="center"> I'm Lionel Jevon, a passionate Student from Surabaya. Welcome to my GitHub profile!</h3>
 
 - 🌱 I’m currently learning **C++, Java, PHP, and Javascript.**
 
-- ⚡ Fun fact **I really love Star Wars**
+- ⚡ Fun fact **I really love Star Wars and reads C.S Lewis**
 
 - 🚀 I’m currently exploring **Mobile and Web Programming**
 
