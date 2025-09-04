@@ -48,8 +48,8 @@
   </a>
 
   <h3>3. Backend Development</h3>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -75,9 +75,7 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" width="40" height="40"/>
-  </a>
+    
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
