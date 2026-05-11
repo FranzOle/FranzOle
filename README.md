@@ -93,11 +93,11 @@ contact: lioneljevon1212@gmail.com
 
 <div align="center">
 
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=FranzOle&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+  <!-- Stats Card — instance alternatif lebih stabil -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FranzOle&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzOle&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <!-- Top Languages — instance alternatif -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FranzOle&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 </div>
 
