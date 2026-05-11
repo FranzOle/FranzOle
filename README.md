@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I really love Star Wars and reading works by C.S Lewis**
 
-- 🚀 I’m currently exploring **Mobile and Web Programming**
+- 🚀 I’m currently exploring **Mobile Programming**
 
 - 📫 How to reach me **lioneljevon1212@gmail.com**
 
