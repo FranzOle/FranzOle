@@ -9,8 +9,8 @@
 <br/>
 
 <!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=lioneljevon&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/lioneljevon?label=Followers&style=for-the-badge&color=7C3AED" />
+<img src="https://komarev.com/ghpvc/?username=FranzOle&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/FranzOle?label=Followers&style=for-the-badge&color=7C3AED" />
 
 </div>
 
