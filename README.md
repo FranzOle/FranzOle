@@ -94,24 +94,24 @@ contact: lioneljevon1212@gmail.com
 <div align="center">
 
   <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lioneljevon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FranzOle&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioneljevon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzOle&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
 </div>
 
 <div align="center">
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lioneljevon&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FranzOle&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
 <div align="center">
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lioneljevon&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FranzOle&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -120,7 +120,7 @@ contact: lioneljevon1212@gmail.com
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lioneljevon&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=FranzOle&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" />
 </div>
 
 ---
