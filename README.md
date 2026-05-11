@@ -1,67 +1,139 @@
-<h1 align="center">Hi 👋, I'm Lionel Jevon</h1>
-<h3 align="center">Student from Surabaya • Passionate Learner • Tech Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Learning+and+building+cool+things.;Mobile+Programming+Explorer;Star+Wars+%26+C.S.+Lewis+fan" alt="Typing SVG" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Lionel%20Jevon&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Student%20•%20Passionate%20Learner%20•%20Tech%20Enthusiast&descAlignY=58&descSize=18" />
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Learning+and+building+cool+things.+%F0%9F%9A%80;Mobile+Programming+Explorer+%F0%9F%93%B1;Star+Wars+%26+C.S.+Lewis+fan+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=lioneljevon&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/lioneljevon?label=Followers&style=for-the-badge&color=7C3AED" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Lionel Jevon
+location: Surabaya, Indonesia 🇮🇩
+education: Student
+focus: Mobile Programming
+
+currently_learning:
+  - Python 🐍
+  - C++ ⚙️
+  - Java ☕
+  - PHP 🐘
+  - JavaScript 🌐
+
+interests:
+  - Mobile Development 📱
+  - Star Wars 🌌
+  - C.S. Lewis books 📚
+
+contact: lioneljevon1212@gmail.com
+```
+
+---
+
+## 🤝 Connect With Me
+
+<div align="left">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lionel_jevon)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/lionel.jevon)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lionel_berger12)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hw2AHaga)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lioneljevon1212@gmail.com)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,php,javascript" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Mobile_Programming-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Python%20%7C%20C%2B%2B%20%7C%20Java%20%7C%20PHP%20%7C%20JavaScript-111827?style=for-the-badge" />
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind" />
+</p>
+
+### 🔧 Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,spring" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mssql" />
+</p>
+
+### 🎨 Design Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
 ---
 
-### ✨ About Me
-- 🌱 Currently learning **Python, C++, Java, PHP, and JavaScript**
-- 🚀 Exploring **Mobile Programming**
-- ⚡ Fun fact: I really love **Star Wars** and reading works by **C.S. Lewis**
-- 📫 Reach me at: **lioneljevon1212@gmail.com**
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lioneljevon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioneljevon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
+
+</div>
+
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lioneljevon&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
+<div align="center">
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lioneljevon&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
 
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://twitter.com/lionel_jevon" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/lionel.jevon" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/lionel_berger12" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/hw2AHaga" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lioneljevon&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" />
+</div>
 
 ---
 
-### 🛠️ Languages & Tools
+<div align="center">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,php,javascript,html,css,react,nodejs,flutter,kotlin,androidstudio,laravel,spring,bootstrap,tailwind,mysql,mssql,figma,photoshop" />
-</p>
+  <blockquote>
+    <b><i>"For nothing will be impossible with God"</i></b><br/>
+    — Luke 1:37
+  </blockquote>
 
----
+  <br/>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lioneljevon&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioneljevon&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lioneljevon&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<blockquote>
-  <p align="center"><i>"For nothing will be impossible with God" — Luke 1:37</i></p>
-</blockquote>
-
-<p align="center">
-  Thanks for visiting ✨
-</p>
+</div>
